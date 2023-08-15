@@ -1,4 +1,4 @@
-const { db } = require("./server/db");
+const { db, WizSchool, WizStudent } = require("./server/db");
 const { green, red } = require("chalk");
 
 // require your models here
